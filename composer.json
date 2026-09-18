@@ -1,5 +1,5 @@
 {
-    "name": "surface/stage",
+    "name": "venusian-surface/stage",
     "description": "Surface stages: engine-owned windows opened on a stage.<host> host and drawn by a gpu.<engine> engine.",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": "^8.4|^8.5|^8.6",
-        "surface/contracts": "^0.8.0",
-        "surface/drawing": "^0.8.0",
+        "venusian-surface/contracts": "^0.8.0",
+        "venusian-surface/drawing": "^0.8.0",
         "venusian-voyager/contracts": "^0.8.0",
         "venusian-voyager/io-pools": "^0.8.0",
         "venusian-voyager/magic-aliases": "^0.8.0",
